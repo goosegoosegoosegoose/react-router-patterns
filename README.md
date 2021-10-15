@@ -1,3 +1,9 @@
+# What I did (thats new)
+- Dog and color apps
+- Switch tag to make routing with url variable easier(?)
+- Navlink tag
+- using url variables
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

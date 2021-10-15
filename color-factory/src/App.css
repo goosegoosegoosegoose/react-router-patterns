@@ -1,0 +1,28 @@
+.nav {
+    padding: 12px;
+}
+
+.center {
+    display: flexbox;
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
+
+.black a{
+    color:white;
+    font-weight: bold;
+}
+
+.colorpage {
+    color:white
+}
+
+.colorpage a{
+    color:white;
+    font-weight: bold;
+}
